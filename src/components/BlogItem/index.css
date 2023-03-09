@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+
+.blog-item {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+
+.blog-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-title {
+  color: #12022f;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Roboto';
+}
+
+.blog-published-date {
+  color: #9aa5b1;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Roboto';
+  line-height: 26px;
+}
+
+.blog-description {
+  color: #9aa5b1;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Roboto';
+  line-height: 26px;
+}
